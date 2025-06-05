@@ -40,6 +40,8 @@ int main()
   int l = largest(arr);
   int s = smallest(arr);
 
-  cout << "largest = " << l << endl;
+  cout << endl
+       << "largest = " << l << endl;
   cout << "smallest = " << s << endl;
 }
+// control+d to end the input

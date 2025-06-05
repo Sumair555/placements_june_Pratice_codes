@@ -1,3 +1,5 @@
+// sum of non lower triangle
+
 #include <iostream>
 #include <vector>
 using namespace std;
